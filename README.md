@@ -1,2 +1,2 @@
-# Simple-game-of-life  
+# Game-of-life  
 Курсова работа ОИИ
